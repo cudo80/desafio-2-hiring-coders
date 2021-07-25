@@ -1,0 +1,103 @@
+export const clients = [
+  {
+    id: '64990f78-c995-4f4e-9e92-a7d64c261f5b',
+    full_name: 'Thorndike Will',
+    email: 'twill0@wikimedia.org',
+    phone_number: '7349884226',
+    date_of_birth: '18/12/1965',
+    address: [
+      {
+        address_line_1: '2310 4th Road',
+        address_line_2: null,
+        admin_area_1: 'Ohio',
+        admin_area_2: 'Toledo',
+        postal_code: '43666',
+        country_code: 'US',
+      },
+    ],
+  },
+  {
+    id: 'bffcad6f-40f5-4f09-b7b2-c73e33545bf4',
+    full_name: 'Libbey Waulker',
+    email: 'lwaulker1@china.com.cn',
+    phone_number: '9285727261',
+    date_of_birth: '24/05/1992',
+    address: [],
+  },
+  {
+    id: '00b3d1e0-bf14-47d4-a60f-2ffce3f71e78',
+    full_name: 'Tuck Wooding',
+    email: 'twooding2@ow.ly',
+    phone_number: '2253748319',
+    date_of_birth: '22/09/1982',
+    address: [
+      {
+        address_line_1: '999 Eagan Hill',
+        address_line_2: null,
+        admin_area_1: null,
+        admin_area_2: 'Zapolyarnyy',
+        postal_code: '184433',
+        country_code: 'RU',
+      },
+    ],
+  },
+  {
+    id: '43478414-6011-4826-b009-b99e38121f90',
+    full_name: 'Berke Hansard',
+    email: 'bhansard3@github.io',
+    phone_number: '1274672411',
+    date_of_birth: '12/06/1957',
+    address: [],
+  },
+  {
+    id: 'b1c38e73-fd25-46d9-84d0-66f121ef5fa4',
+    full_name: 'David Matonin',
+    email: 'dmatonin4@discovery.com',
+    phone_number: '5414037873',
+    date_of_birth: '19/01/1957',
+    address: [
+      {
+        address_line_1: '29 Petterle Park',
+        address_line_2: null,
+        admin_area_1: null,
+        admin_area_2: 'Balrothery',
+        postal_code: 'K32',
+        country_code: 'IE',
+      },
+    ],
+  },
+  {
+    id: '8710ea16-c40d-48e0-81d4-bffc82f6a7c4',
+    full_name: 'Nettle Kirkbright',
+    email: 'nkirkbright5@ihg.com',
+    phone_number: '6273714283',
+    date_of_birth: '13/12/1991',
+    address: [
+      {
+        address_line_1: '4 Crownhardt Drive',
+        address_line_2: '17333',
+        admin_area_1: null,
+        admin_area_2: 'Dajing',
+        postal_code: null,
+        country_code: 'CN',
+      },
+    ],
+  },
+  {
+    id: '20f9b1e5-7656-4d46-9700-45d224ca9200',
+    full_name: 'Fae Bonnor',
+    email: 'fbonnor6@qq.com',
+    phone_number: '4417922418',
+    date_of_birth: '26/03/2007',
+    address: [
+      {
+        address_line_1: '8 Pawling Drive',
+        address_line_2: null,
+        admin_area_1: 'Alberta',
+        admin_area_2: 'Nanton',
+        postal_code: 'L5M',
+        country_code: 'CA',
+      },
+    ],
+  },
+];
